@@ -1,2 +1,3 @@
 # afya
-Afya is Swahili for Health
+
+This project aims to explore different Golang programming ideologies
